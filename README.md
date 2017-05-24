@@ -16,6 +16,10 @@ Module PCF8574AT and LCD:
 STM32F407 and Module PCF8574AT:
 - PB6(SCL_I2C of MCU) connect to SCL
 - PB7(SDA_I2C of MCU) connect to SDA
+
 Note: Use 2 PIN I2C (SDA,SCL) of STM32f407 to connect with Module PCF8574AT.
 
-Reference: Datasheet of PCF8574AT and TC2004A-01. Support my friend https://github.com/thaitanloi365
+Reference: 
+- Datasheet of PCF8574AT and TC2004A-01. 
+- http://www.hocavr.com/index.php/app/textlcd 
+- Support from my friend https://github.com/thaitanloi365
