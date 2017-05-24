@@ -14,8 +14,8 @@ Module PCF8574AT and LCD:
 - P7 connect to	D7
 
 STM32F407 and Module PCF8574AT:
-- PB6(SCL_I2C of MCU) connect to SCL
-- PB7(SDA_I2C of MCU) connect to SDA
+- PB6 (SCL_I2C of MCU) connect to SCL
+- PB7 (SDA_I2C of MCU) connect to SDA
 
 Note: Use 2 PIN I2C (SDA,SCL) of STM32f407 to connect with Module PCF8574AT.
 
